@@ -130,6 +130,8 @@
     <ClCompile Include="CppMaterial.cpp" />
     <ClCompile Include="Sesi2.cpp" />
     <ClCompile Include="Sesi3.cpp" />
+    <ClCompile Include="Sesi4.cpp" />
+    <ClCompile Include="TugasSesi4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

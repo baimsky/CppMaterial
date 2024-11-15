@@ -24,5 +24,11 @@
     <ClCompile Include="Sesi2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sesi4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TugasSesi4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
